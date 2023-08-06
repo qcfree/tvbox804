@@ -1,19 +1,19 @@
 ﻿{
 "wallpaper": "http://maoyingshi.cc/api.php",
 //"wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php",
-"spider":"./Hk/Hk.jar",
+"spider":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/Hk.jar",
  "sites":[
  
  
-        {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Hk/XYQHiker/兔小贝.json"},
-        {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Hk/XYQHiker/兔小贝2.json"},
-        {"key": "csp_XYQHiker_播视童趣","name":"🪆播视童趣","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Hk/XYQHiker/播视童趣.json"},
-        {"key":"csp_Bili幼儿","name":"🐞哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./Hk/biliext/幼儿乐园.json"},
-        {"key":"csp_Bili少儿","name":"🐞哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Hk/biliext/少儿教育.json"},
-        {"key":"csp_Bili小学","name":"🐞哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Hk/biliext/小学课堂.json"},
-        {"key":"csp_Bili初中","name":"🐞哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Hk/biliext/初中课堂.json"},
-        {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Hk/biliext/高中课堂.json"},
-        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/alitoken.txt"}
+        {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/XYQHiker/兔小贝.json"},
+        {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/XYQHiker/兔小贝2.json"},
+        {"key": "csp_XYQHiker_播视童趣","name":"🪆播视童趣","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/XYQHiker/播视童趣.json"},
+        {"key":"csp_Bili幼儿","name":"🐞哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/biliext/幼儿乐园.json"},
+        {"key":"csp_Bili少儿","name":"🐞哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/biliext/少儿教育.json"},
+        {"key":"csp_Bili小学","name":"🐞哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/biliext/小学课堂.json"},
+        {"key":"csp_Bili初中","name":"🐞哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/biliext/初中课堂.json"},
+        {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/biliext/高中课堂.json"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://w.g9.pub:66/f/lMYHX/live.txt"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
