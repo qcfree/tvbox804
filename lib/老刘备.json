@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
- {"key":"csp_Bdys","name":"🌤哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Hk/Hk.jar"},
+ {"key":"csp_Bdys","name":"🌤哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/Hk.jar"},
     {
       "key": "csp_Kunyu77",
       "name": "🌤酷云七七",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/fm.jar"
+      "jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"
     },
    
     {
