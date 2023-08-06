@@ -15,15 +15,15 @@
 //QQ频道：搜索云星日记即可           
 //微信群;加客服赞赏入群           
 //客服微信:Yc_zhxx
-//本地接口配置: ./lib/ksck.json
+//本地接口配置: https://cdn.staticaly.com/gh/qcfree/tvbox804/master/lib/ksck.json
 //上面链接是针对那些电视端添加仓库失败的各别人员使用
 {
 "storeHouse":
 [
 
-{"sourceName":"可视本地仓库","sourceUrl":"./本地仓库.json"},
-{"sourceName":"云星在线仓库","sourceUrl":"./lib/zx.json"}
-//{"sourceName":"绿茶在线仓库","sourceUrl":"./lib/99.json"},
+{"sourceName":"可视本地仓库","sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/lib/zx.json"}
+//{"sourceName":"绿茶在线仓库","sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/lib/99.json"},
 
 ]
 }
