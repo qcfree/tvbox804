@@ -5,7 +5,7 @@
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lm54b2cudG9wL20vdHY="]}]}],
 "sites": [
 
-{"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js","jar":"./JS/w.jar"},
+{"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/JS/lib/drpy.min.js","ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/JS/js/drpy.js","jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/JS/w.jar"},
 {
 		"key": "py_douban",
 		"name": "Py | 豆瓣",
@@ -14,16 +14,16 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_douban.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_douban.json"
 	}, 
-    //{"key": "py_douban","name": "Py | 纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./py/plugin/py_gitcafe.py"}, 
-	//{"key": "py_douban","name": "Py | 易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./py/plugin/py_yiso.py"}, 
-    //{"key": "py_douban","name": "Py | up云搜","type": 3,"api": "py_yunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./py/plugin/py_yunso.py"}, 
-	//{"key" : "py_zhaozy","name" : "🔍找资源 py","type" : 3,"api" : "py_zhaozy","searchable" : 1,"quickSearch" : 1, "filterable" : 0,"ext" : "./py/plugin/py_zhaozy.py"},
-    //{"key" : "py_pansou","name" : "📀盘搜 py", "type" : 3, "api" : "py_pansou","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "./py/plugin/py_pansou.py"},
-    //{"key" : "py_alist","name" : "🗂Alist py","type" : 3, "api" : "py_alist","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "./py/plugin/py_alist.py"},
-    //{"key" : "push_agent2","name" : "📂阿里 py","type" : 3,"api" : "py_ali", "searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "./py/plugin/py_ali.py"},
-    //{"key": "py_bilimd","name": "Py | B站影视","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/plugin/B站影视.py"},  
+    //{"key": "py_douban","name": "Py | 纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_gitcafe.py"}, 
+	//{"key": "py_douban","name": "Py | 易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_yiso.py"}, 
+    //{"key": "py_douban","name": "Py | up云搜","type": 3,"api": "py_yunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_yunso.py"}, 
+	//{"key" : "py_zhaozy","name" : "🔍找资源 py","type" : 3,"api" : "py_zhaozy","searchable" : 1,"quickSearch" : 1, "filterable" : 0,"ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_zhaozy.py"},
+    //{"key" : "py_pansou","name" : "📀盘搜 py", "type" : 3, "api" : "py_pansou","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_pansou.py"},
+    //{"key" : "py_alist","name" : "🗂Alist py","type" : 3, "api" : "py_alist","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_alist.py"},
+    //{"key" : "push_agent2","name" : "📂阿里 py","type" : 3,"api" : "py_ali", "searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_ali.py"},
+    //{"key": "py_bilimd","name": "Py | B站影视","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/B站影视.py"},  
       {
 		"key": "py_kunyu77",
 		"name": "Py | kunyu77",
@@ -32,7 +32,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_kunyu77.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_kunyu77.json"
 	    },
     	{
             "key" : "py_youer",
@@ -42,7 +42,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/幼儿教育.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/幼儿教育.py"
         }, {
             "key" : "py_xiaoxue",
             "name" : "Py | 小学教育",
@@ -51,7 +51,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/小学教育.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/小学教育.py"
         }, {
             "key" : "py_czxx",
             "name" : "Py | 初中教育",
@@ -60,7 +60,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/初中教育.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/初中教育.py"
         }, {
             "key" : "py_gaozxx",
             "name" : "Py | 高中教育",
@@ -69,7 +69,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/高中教育.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/高中教育.py"
         }, {
             "key" : "py_xuqu1",
             "name" : "Py | 戏曲专栏",
@@ -78,7 +78,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/戏曲合集.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/戏曲合集.py"
             }, 
            {
             "key" : "py_TYjs1",
@@ -88,7 +88,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/体育健身.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/体育健身.py"
            }, 
            {
             "key" : "py_xiangsh",
@@ -98,7 +98,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/相声小品.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/相声小品.py"
         },  
         {
             "key" : "py_yanchh",
@@ -108,7 +108,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/歌手合集.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/歌手合集.py"
         }, 
         {
             "key" : "py_MTV",
@@ -118,7 +118,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/MTV.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/MTV.py"
         }, 
         
         {
@@ -129,7 +129,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/音乐合集.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/音乐合集.py"
         }, 
         {
             "key" : "py_yanchh",
@@ -139,7 +139,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/歌手合集.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/歌手合集.py"
         },
         {
             "key" : "py_TYjs2",
@@ -149,7 +149,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/搭讪.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/搭讪.py"
            }, 
            {
             "key" : "py_TYjs3",
@@ -159,7 +159,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/搭配.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/搭配.py"
            }, 
         {
       "key": "py_meishi",
@@ -169,7 +169,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/plugin/美食合集.py"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/美食合集.py"
     },
       {
             "key" : "py_FBqx",
@@ -179,7 +179,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/球队球星.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/球队球星.py"
         },  
         {
             "key" : "py_Bzjc",
@@ -189,7 +189,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/软件教程.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/软件教程.py"
         }, 
      
          {
@@ -200,7 +200,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/美女热舞.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/美女热舞.py"
         }, 
          
         {
@@ -211,7 +211,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/女团热舞.py"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/女团热舞.py"
         }, 
    
      
@@ -223,8 +223,8 @@
         "searchable":1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "./Bilibili/哔哩合集.json",
-        "jar":"./jar/xzy1029.jar"
+        "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Bilibili/哔哩合集.json",
+        "jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/xzy1029.jar"
        },
        
        {
@@ -235,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./py/plugin/中医药.py"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/中医药.py"
     },
     {
       "key": "py_zgwh",
@@ -245,7 +245,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/plugin/中国文化.py"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/中国文化.py"
     },
 
 
@@ -257,7 +257,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctv.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctv.json"
         },
        {
             "key" : "py_cctvdy",
@@ -267,7 +267,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvdy.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvdy.json"
         }, {
             "key" : "py_cctvjs",
             "name" : "Py | 央视军事",
@@ -276,7 +276,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvjs.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvjs.json"
         }, {
             "key" : "py_cctvkj",
             "name" : "Py | 央视科教",
@@ -285,7 +285,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvkj.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvkj.json"
         }, {
             "key" : "py_cctvny",
             "name" : "Py | 央视农业",
@@ -294,7 +294,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvny.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvny.json"
         }, {
             "key" : "py_cctvse",
             "name" : "Py | 央视少儿",
@@ -303,7 +303,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvse.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvse.json"
         }, {
             "key" : "py_cctvty",
             "name" : "Py | 央视体育",
@@ -312,7 +312,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvty.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvty.json"
         }, {
             "key" : "py_cctvxq",
             "name" : "Py | 央视戏曲",
@@ -321,7 +321,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvxq.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvxq.json"
         }, {
             "key" : "py_cctvxw",
             "name" : "Py | 央视新闻",
@@ -330,7 +330,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvxw.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvxw.json"
         }, {
             "key" : "py_cctvyy",
             "name" : "Py | 央视音乐",
@@ -339,7 +339,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvyy.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvyy.json"
         }, {
             "key" : "py_cctvzh",
             "name" : "Py | 央视综合",
@@ -348,7 +348,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvzh.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvzh.json"
         }, {
             "key" : "py_cctvzy",
             "name" : "Py | 央视综艺",
@@ -357,7 +357,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_cctvzy.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cctvzy.json"
         }, 
     
     	{
@@ -368,7 +368,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_lezhutv.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_lezhutv.json"
 	},  
    	{
 		"key": "py_cyys",
@@ -378,7 +378,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_cyys.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_cyys.json"
 	},
 	
 	{
@@ -389,7 +389,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_wmkk.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_wmkk.json"
 	},
 	
 	    {
@@ -400,7 +400,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./py/plugin/py_yixi.json"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_yixi.json"
         },
         {
 		"key": "py_huya",
@@ -410,7 +410,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "./py/plugin/py_huya.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_huya.json"
 	}, 
      {
 		"key": "py_douyu",
@@ -420,7 +420,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "./py/plugin/py_douyu.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_douyu.json"
 	}, 	
 
 	{
@@ -431,7 +431,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "./py/plugin/py_jrskbs.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_jrskbs.json"
 	}, 
 	
  {
@@ -442,7 +442,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "./py/plugin/py_xmly.py"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_xmly.py"
 	}, 
 	{
 		"key": "py_libvio",
@@ -452,7 +452,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_libvio.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_libvio.json"
 	}, 
 	
 	{
@@ -463,7 +463,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_3qu.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_3qu.json"
 	},
 	
         {
@@ -474,7 +474,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./py/plugin/py_alist.json"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_alist.json"
         },     
     {
 		"key": "py_czspp",
@@ -484,7 +484,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_czspp.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_czspp.json"
 	}, 
 
     {
@@ -495,7 +495,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_gimytv.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_gimytv.json"
 	}, 
 	    {
 		"key": "py_genmov1",
@@ -505,15 +505,15 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "./py/plugin/py_genmov_1.json"
+		"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/py/plugin/py_genmov_1.json"
 	    },
-{"key":"csp_GitCafe1","name":"纸条 | 搜索","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt","jar":"./Hk/Hk.jar"},
-//{"key": "紙條","name": "纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-{"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-{"key": "盤搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-{"key": "UP雲搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-{"key": "找资源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","ext": "./jar/alitoken.txt$$$自己去注册$$$qq112233","jar": "./jar/fm.jar"},
-{"key": "push_agent","name": "推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
+{"key":"csp_GitCafe1","name":"纸条 | 搜索","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/Hk.jar"},
+//{"key": "紙條","name": "纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+{"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+{"key": "盤搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+{"key": "UP雲搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+{"key": "找资源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt$$$自己去注册$$$qq112233","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+{"key": "push_agent","name": "推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
 
 {"key" : "drpy_js_榜单荐片2","name" : "榜单荐片2[tv.nxog.top]","type" : 3,"api": "http://tv.nxog.top/m/js/drpy.js","ext": "http://tv.nxog.top/m/MaooXX/欧歌聚合搜索.js"}
 
