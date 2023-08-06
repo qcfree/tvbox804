@@ -1,0 +1,60 @@
+//公众号【云星日记】
+//公众号【云星日记】
+//公众号【云星日记】
+
+//多个个仓库：多个在线，一个本地
+//本地仓库：需要配合公众号本地包使用详情前往公众号回复关键词
+//在线仓库使用教程公众号回复【可视TV仓库地址】
+//本地仓库使用教程公众号回复【TVBox本地接口】
+
+//•Q①群号：783468715（2k人满）
+//•Q②群号：764366711（2k人满）
+//•Q③群号：211185159（1k人满）
+//•Q 4群号：582874559 （1k人满）
+//•Q 5群号：716385048 （新群）
+//QQ频道：搜索云星日记即可           
+//微信群;加客服赞赏入群           
+//客服微信:Yc_zhxx
+//本地接口配置: clan://localhost/TVBox/lib/ksck.json
+//上面链接是针对那些电视端添加仓库失败的各别人员使用
+{
+"storeHouse":
+[
+
+{"sourceName":"可视本地仓库","sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvbox/main/在线本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox/main/lib/zx.json"},
+  //{"sourceName":"云星日记仓库","sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库.json"},
+  {"sourceName":"☁️云星在线仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+  {"sourceName":"☁️可视本地仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
+{"sourceName":"绿茶在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox/main/lib/99.json"},
+{"sourceName":"自用在线仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/自用线路.json"},
+{"sourceName":"自用在线仓库2","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/xl.json"},
+{"sourceName":"一锅端仓库","sourceUrl":"http://xn--3pr.xn--e8yw23d.love:66/tvbox.json"},
+  //业余打发新版在线仓库.https://pan.shangui.cc/f/XAyUd/zx.json
+ {"sourceName":"♻️业余打发新版在线仓库","sourceUrl":"https://pan.shangui.cc/f/XAyUd/zx.json"}, 
+//{"sourceName":"♻️业余打发新版在线单仓","sourceUrl":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
+//{"sourceName":"♻️ 业余少儿频道 ","sourceUrl":"https://pan.shangui.cc/f/8VDbIo/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.json"},
+//{"sourceName":"♻️ 阿里集搜线路 ","sourceUrl":"https://pan.shangui.cc/f/4LBAF0/ali.json"},
+//{"sourceName":"♻️ 神秘的米哥哥们 ","sourceUrl":"http://xhww.fun:63/小米/DEMO.json"},
+//{"sourceName":"♻️ 永不失效的采集 ","sourceUrl":"https://pan.shangui.cc/f/mPecb/%E9%87%87%E9%9B%86.json"},
+//{"sourceName":"♻️ 需壳支持PY资源 ","sourceUrl":"https://pan.shangui.cc/f/J1VxTK/py.json"},
+{"sourceName":"精品多仓 ","sourceUrl":"https://i0k.cn/2xa129"},
+{"sourceName":"分享者专属仓库 ","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
+{"sourceName":"影视仓多仓 ","sourceUrl":"https://agit.ai/VivoMax/online/raw/branch/master/多线路.json"},
+{"sourceName":"月光宝盒多仓 ","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"},
+//{"sourceName":"星河多仓 ","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0"},
+ //多多接口多仓.https://jihulab.com/duomv/apps/-/raw/main/fast.json
+{"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
+{"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
+{"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
+{"sourceName":"💜多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
+{"sourceName":"多多多仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
+{"sourceName":"宝盒多仓","sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"},
+{"sourceName":"宝盒max多仓","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax"},
+{"sourceName":"公众号吾爱有三日月与卿","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
+
+  // 猎狼多仓.http://tvbox.lltv8.top
+{"sourceName":"🌹🌹猎狼TV吧🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧.json"},
+{"sourceName":"🌹🌹猎狼TV吧影视🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧影视.json"}
+]
+}
