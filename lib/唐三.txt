@@ -9,7 +9,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "195e30c1255970effc5480021f25fcd9#./jar/alitoken.txt"
+      "ext": "195e30c1255970effc5480021f25fcd9#https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "世界杯",
@@ -360,7 +360,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "./jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "YiSo",
@@ -371,7 +371,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "./jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "找資源",
@@ -393,7 +393,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "./jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "盤搜索",
@@ -404,7 +404,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "./jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "阿里",
@@ -415,7 +415,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "./jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "push_agent",
@@ -426,7 +426,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "./jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     }
   ],
   "lives": [
