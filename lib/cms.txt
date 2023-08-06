@@ -2,12 +2,12 @@
 {
 "wallpaper": "https://pictures.catvod.eu.org",
 
-"spider":"./jar/fm.jar",
+"spider":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
  "sites":[
-{"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
+{"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/JS/lib/drpy.min.js","ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/JS/js/drpy.js"},
 {"key":"玩偶1","name":"☃️玩偶┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"酷影","name":"👘泰泰┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},
 {"key":"酷酷","name":"🩳酷酷┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
@@ -72,7 +72,7 @@
             ]
         },
     
- {"key":"Qtv","name":"🐧影视┃腾讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./jar/xzy1029.jar"},
+ {"key":"Qtv","name":"🐧影视┃腾讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/xzy1029.jar"},
 {"key":"Itv","name":"🥝影视┃奇异果","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
 {"key":"Mtv","name":"🍋影视┃芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
   
@@ -745,8 +745,8 @@
                 "海外动漫"
             ]
         },
-        {"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"}
-     //{"key": "push_agent", "name": "🍭推送(海阔)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "./jar/alitoken.txt","jar": "./Hk/Hk.jar"}
+        {"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"}
+     //{"key": "push_agent", "name": "🍭推送(海阔)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/Hk.jar"}
         
         ],
    "parses": [
