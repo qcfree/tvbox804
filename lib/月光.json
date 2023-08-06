@@ -1,5 +1,5 @@
 ﻿{
-    "spider" : "./jar/xzy1029.jar",
+    "spider" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/xzy1029.jar",
     "wallpaper" : "https://api.ixiaowai.cn/gqapi/gqapi.php",
     "lives" : [
             {
@@ -296,17 +296,17 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "./jar/alitoken.txt",
-            "jar": "./jar/ali刷新.jar"
+            "ext" : "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt",
+            "jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/ali刷新.jar"
         },
 
-         {"key": "紙條","name": "📜纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-//{"key": "易搜","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-//{"key": "盤搜","name": "😻盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-//{"key": "UP雲搜","name": "😻Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-//{"key": "找資源","name": "😺找资源 | 搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt$$$yingshi$$$abcd1234","jar": "./jar/fm.jar"},
-//{"key": "push_agent","name": "🐱推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./jar/alitoken.txt","jar": "./jar/fm.jar"},
-{"key": "push_agent", "name": "🍭推送(海阔规则)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "./jar/alitoken.txt","jar": "./Hk/Hk.jar"},
+         {"key": "紙條","name": "📜纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+//{"key": "易搜","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+//{"key": "盤搜","name": "😻盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+//{"key": "UP雲搜","name": "😻Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+//{"key": "找資源","name": "😺找资源 | 搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt$$$yingshi$$$abcd1234","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+//{"key": "push_agent","name": "🐱推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/fm.jar"},
+{"key": "push_agent", "name": "🍭推送(海阔规则)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/Hk.jar"},
             {
             "key" : "csp_xpath_clss",
             "name" : "🧲磁搜",
