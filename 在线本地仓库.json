@@ -1,4 +1,4 @@
-﻿{"urls": [
+{"urls": [
 {"url": "./lib/无忧.json","name":"无忧总线路"},
 {"url": "./lib/无忧TV.json","name":"无忧普通线路"},
 {"url": "./lib/无忧ali.json","name":"无忧阿里线路"},
