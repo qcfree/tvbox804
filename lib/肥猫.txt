@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$https://wogg.xyz/"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt$$$https://wogg.xyz/"
     },
     {
       "key": "csp_AppMr",
@@ -337,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "csp_search_PanSearch",
@@ -347,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "csp_search_Yisou",
@@ -358,7 +358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "csp_search_Zhaozy",
@@ -369,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$feimao$$$123456"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt$$$feimao$$$123456"
     },
     {
       "key": "csp_search_Upyunso",
@@ -380,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "csp_search_Alips",
@@ -391,7 +391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "csp_BBB",
@@ -579,7 +579,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"
     },
     {
       "key": "ext_live_protocol",
