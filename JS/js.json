@@ -2,6 +2,7 @@
  "sites":[
  {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/lib/drpy2.min.js","ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/js/drpy.js"},
  {"key":"csp_GitCafe1","name":"纸条 | 搜索","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt","jar":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/Hk/Hk.jar"},
+{"key":"素白白","name":"🚛素白白","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/subaibai.js"},
 {"key":"七夜","name":"七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"},
 {"key":"易搜","name":"阿里 | 易搜","type":3,"api":"csp_YiSo","ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"},
 {"key":"盘搜","name":"阿里 | 盘搜","type":3,"api":"csp_PanSou","ext":"https://cdn.staticaly.com/gh/qcfree/tvbox804/master/jar/alitoken.txt"},
