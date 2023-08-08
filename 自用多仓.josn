@@ -21,12 +21,13 @@
 "storeHouse":
 [
 
-{"sourceName":"可视本地仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvbox804/master/在线本地仓库.json"},
-{"sourceName":"云星在线仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvbox804/master/lib/zx.json"},
+{"sourceName":"可视本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"clan://localhost/TVBox/lib/zx.json"}
+//{"sourceName":"绿茶在线仓库","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
   //{"sourceName":"云星日记仓库","sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库.json"},
   {"sourceName":"☁️云星在线仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
   {"sourceName":"☁️可视本地仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
-{"sourceName":"绿茶在线仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvbox804/master/lib/99.json"},
+//{"sourceName":"绿茶在线仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvbox804/master/lib/99.json"},
 {"sourceName":"自用在线仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/自用线路.json"},
 {"sourceName":"自用在线仓库2","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/xl.json"},
 {"sourceName":"一锅端仓库","sourceUrl":"http://xn--3pr.xn--e8yw23d.love:66/tvbox.json"},
