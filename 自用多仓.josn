@@ -15,15 +15,15 @@
 //QQ频道：搜索云星日记即可           
 //微信群;加客服赞赏入群           
 //客服微信:Yc_zhxx
-//本地接口配置: clan://localhost/TVBox/lib/ksck.json
+//本地接口配置: https://ghproxy.com/https://raw.githubusercontent.com/qcfree/TVBox/lib/ksck.json
 //上面链接是针对那些电视端添加仓库失败的各别人员使用
 {
 "storeHouse":
 [
 
-{"sourceName":"可视本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
-{"sourceName":"云星在线仓库","sourceUrl":"clan://localhost/TVBox/lib/zx.json"}
-//{"sourceName":"绿茶在线仓库","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
+{"sourceName":"可视本地仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/TVBox/在线本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/TVBox/lib/zx.json"}
+//{"sourceName":"绿茶在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/TVBox/lib/99.json"},
   //{"sourceName":"云星日记仓库","sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库.json"},
   {"sourceName":"☁️云星在线仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
   {"sourceName":"☁️可视本地仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
