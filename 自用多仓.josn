@@ -57,7 +57,15 @@
 {"sourceName":"阿里精品","sourceUrl": "https://yydsys.top/duo/ali"},
   // 猎狼多仓.http://tvbox.lltv8.top
 {"sourceName":"🌹🌹猎狼TV吧🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧.json"},
-{"sourceName":"🌹🌹猎狼TV吧影视🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧影视.json"}
+{"sourceName":"🌹🌹猎狼TV吧影视🌹🌹","sourceUrl": "http://lltv8.top/lltvbox/TVBox/lib/猎狼TV吧影视.json"},
+//夜猫子在线系列
+{"sourceName":"🌹仓库一🌹","sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/ck1.json"},
+{"sourceName":"🌹仓库二🌹","sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/ck2.json"},
+{"sourceName":"🌹仓库三🌹","sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/ck3.json"},
+{"sourceName":"🌹仓库四🌹","sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/ck4.json"},
+{"sourceName":"🌹仓库五🌹","sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/ck5.json"}
+
+
 
 ]
 }
