@@ -21,8 +21,8 @@
 "storeHouse":
 [
 
-{"sourceName":"可视本地仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvboxzy/main/自用线路.json"},
-{"sourceName":"云星在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/lib/zx.json"},
+//{"sourceName":"可视本地仓库","sourceUrl":"https://raw.kgithub.com/qcfree/tvboxzy/main/自用线路.json"},
+//{"sourceName":"云星在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvbox804/master/lib/zx.json"},
 //{"sourceName":"绿茶在线仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/qcfree/TVBox804/master/lib/99.json"},
   //{"sourceName":"云星日记仓库","sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库.json"},
   {"sourceName":"☁️云星在线仓库","sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
